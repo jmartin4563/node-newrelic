@@ -2261,7 +2261,7 @@ SOFTWARE.
 
 ### clean-jsdoc-theme
 
-This product includes source derived from [clean-jsdoc-theme](https://github.com/ankitskvmdam/clean-jsdoc-theme) ([v4.2.7](https://github.com/ankitskvmdam/clean-jsdoc-theme/tree/v4.2.7)), distributed under the [MIT License](https://github.com/ankitskvmdam/clean-jsdoc-theme/blob/v4.2.7/LICENSE):
+This product includes source derived from [clean-jsdoc-theme](https://github.com/ankitskvmdam/clean-jsdoc-theme) ([v4.2.9](https://github.com/ankitskvmdam/clean-jsdoc-theme/tree/v4.2.9)), distributed under the [MIT License](https://github.com/ankitskvmdam/clean-jsdoc-theme/blob/v4.2.9/LICENSE):
 
 ```
 MIT License
