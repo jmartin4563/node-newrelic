@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "Mon Jun 26 2023 13:20:34 GMT+0530 (India Standard Time)",
+  "lastUpdated": "Wed Jun 28 2023 16:17:36 GMT-0400 (Eastern Daylight Time)",
   "projectName": "New Relic Node Agent",
   "projectUrl": "https://github.com/newrelic/node-newrelic",
   "includeOptDeps": true,
@@ -349,15 +349,15 @@
       "publisher": "Jake Luer",
       "email": "jake@alogicalparadox.com"
     },
-    "clean-jsdoc-theme@4.2.7": {
+    "clean-jsdoc-theme@4.2.9": {
       "name": "clean-jsdoc-theme",
-      "version": "4.2.7",
-      "range": "^4.2.4",
+      "version": "4.2.9",
+      "range": "^4.2.9",
       "licenses": "MIT",
       "repoUrl": "https://github.com/ankitskvmdam/clean-jsdoc-theme",
-      "versionedRepoUrl": "https://github.com/ankitskvmdam/clean-jsdoc-theme/tree/v4.2.7",
+      "versionedRepoUrl": "https://github.com/ankitskvmdam/clean-jsdoc-theme/tree/v4.2.9",
       "licenseFile": "node_modules/clean-jsdoc-theme/LICENSE",
-      "licenseUrl": "https://github.com/ankitskvmdam/clean-jsdoc-theme/blob/v4.2.7/LICENSE",
+      "licenseUrl": "https://github.com/ankitskvmdam/clean-jsdoc-theme/blob/v4.2.9/LICENSE",
       "licenseTextSource": "file",
       "publisher": "Ank"
     },

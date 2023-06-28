@@ -213,7 +213,7 @@
     "async": "^3.2.4",
     "c8": "^7.14.0",
     "chai": "^4.1.2",
-    "clean-jsdoc-theme": "^4.2.4",
+    "clean-jsdoc-theme": "^4.2.9",
     "commander": "^7.0.0",
     "conventional-changelog-conventionalcommits": "^5.0.0",
     "conventional-changelog-writer": "^5.0.1",
