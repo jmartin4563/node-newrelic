@@ -1,3 +1,9 @@
+### v11.0.0 (2023-06-28)
+
+#### Bug Fixes
+
+* this is just a test
+
 ### v10.3.2 (2023-06-26)
 
 #### Bug Fixes
